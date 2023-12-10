@@ -5,7 +5,7 @@ I don't know what I am doing =)
 1. Got a site?  
 yeaa! check this [ammar.engineer](https://ammar.engineer)
 
-2. Who are yoU?
+2. Who are you?  
 check my "[about me](https://ammar.engineer/about)" page!
 
 
