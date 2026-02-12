@@ -6,7 +6,7 @@ I am a Hardware engineer and PhD student working at the intersection of **EDA/CA
 <!-- <img align="left" width="200" alt="marisa-flying-wide" src="https://github.com/user-attachments/assets/3d74bd00-8736-498d-968b-d1e129dc57c0" /> -->
 
 ```toml
-[hardware_eng@github] ~ $ neofetch
+[flinner@github] ~ $ neofetch
 # ──────────────────────────────────────
 
 [research]
