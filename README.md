@@ -2,7 +2,7 @@
 
 I am a Hardware engineer and PhD student working at the intersection of **EDA/CAD**, digital design, and low-level systems.
 
-<img align="left" src="https://64.media.tumblr.com/a6803ab5f138ef1a619b842305cee767/3c1eea2f47e6bf69-3a/s1280x1920/0d603d205b49710212b45747cc4c0e364a75c052.pnj" width="200"></img>
+<img align="left" src="https://github.com/user-attachments/assets/0aa637ad-59a1-4608-8ece-e3463b0d38b8" width="200"></img>
 <!-- <img align="left" width="200" alt="marisa-flying-wide" src="https://github.com/user-attachments/assets/3d74bd00-8736-498d-968b-d1e129dc57c0" /> -->
 
 ```toml
